@@ -30,6 +30,6 @@ El script debe ejecutarse con privilegios de **root** y depende de los siguiente
 Clona el repositorio y otorga permisos de ejecución:
 
 ```bash
-git clone [https://github.com/rxsh/rxshPwnWfi.git](https://github.com/rxsh/rxshPwnWfi.git)
+git clone https://github.com/rxsh/rxshPwnWfi.git
 cd rxshPwnWfi
 chmod +x rxshPwnWfi.sh
